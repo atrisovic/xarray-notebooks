@@ -1,6 +1,6 @@
 attrs==19.1.0
 backcall==0.1.0
-bleach==3.1.2
+bleach==3.1.4
 cftime==1.0.3.4
 Click==7.0
 -e git+https://github.com/ClimateImpactLab/climate_toolbox.git@95d57f210904fe0d35e7b6267b2a1d721422c11b#egg=climate_toolbox
